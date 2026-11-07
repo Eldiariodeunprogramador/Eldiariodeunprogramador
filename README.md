@@ -1,183 +1,221 @@
-# 👋 Hola, soy Leonel Ospina Restrepo
-
-### Creador de **El diario de un programador** | Tecnología | Desarrollo de software | Bases de datos
+<!-- =====================================================
+     LEONEL OSPINA RESTREPO | EL DIARIO DE UN PROGRAMADOR
+     GitHub Profile README
+====================================================== -->
 
 <div align="center">
-  <img align="right" height="150" src="https://github.com/Eldiariodeunprogramador/Linux-esencial/blob/main/img/02-225x300.png?raw=true" alt="El diario de un programador" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,50:123456,100:00b4d8&text=EL%20DIARIO%20DE%20UN%20PROGRAMADOR&fontColor=ffffff&fontSize=34&fontAlignY=45&desc=TECNOLOG%C3%8DA%20%7C%20PROGRAMACI%C3%93N%20%7C%20BASES%20DE%20DATOS&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
+
+# LEONEL OSPINA RESTREPO
+
+### Desarrollador · Autor · Creador de contenido tecnológico
+
+[![GitHub](https://img.shields.io/badge/GitHub-Eldiariodeunprogramador-181717?style=for-the-badge&logo=github)](https://github.com/Eldiariodeunprogramador)
+[![YouTube](https://img.shields.io/badge/YouTube-El_diario_de_un_programador-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@el-diariodeunprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-@lospinare-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lospinare/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eldiariode-unprogramador-384201338/)
+
 </div>
-
-## 👨‍💻 Sobre mí
-
-Soy **Leonel Ospina Restrepo**, creador de **El diario de un programador**, un proyecto dedicado a la investigación, el aprendizaje, la documentación y la divulgación de conocimientos relacionados con la informática y la tecnología.
-
-Me apasiona explorar el mundo del desarrollo de software, la programación, las bases de datos, el hardware y el software. Mi interés está orientado a comprender cómo funcionan las tecnologías, desarrollar soluciones informáticas y compartir conocimientos mediante contenidos educativos, manuales técnicos y laboratorios prácticos.
-
-Me caracterizo por mantener una mentalidad de aprendizaje continuo, investigación y experimentación. Considero que la mejor manera de adquirir conocimientos es combinar la teoría con la práctica, documentar los procesos y compartir las experiencias.
-
-**Mi propósito es transformar el conocimiento técnico en contenido comprensible, estructurado y práctico para quienes desean aprender y desarrollar sus habilidades tecnológicas.**
-
-<br clear="both">
 
 ---
 
-## 🚀 Áreas de conocimiento y habilidades
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-### 🌐 Desarrollo web y programación
+## 👨‍💻 SOBRE MÍ
 
-- HTML5: estructura y organización de páginas web.
-- CSS3: diseño, estilos y presentación de interfaces.
-- JavaScript: lógica de programación, funciones, validaciones y manipulación del DOM.
-- TypeScript: fundamentos del lenguaje y programación tipada.
-- React: fundamentos del desarrollo de interfaces.
-- Python: fundamentos de programación.
-- C#: fundamentos de programación y desarrollo de aplicaciones.
-- Algoritmos, lógica de programación y resolución de problemas.
+Soy **Leonel Ospina Restrepo**, creador de **El diario de un programador**, un proyecto editorial y tecnológico dedicado a la investigación, el aprendizaje y la divulgación de conocimientos relacionados con la informática.
 
-### 🗄️ Bases de datos
+Mi interés por la tecnología abarca el desarrollo de software, la programación, las bases de datos, la arquitectura de computadores, el hardware y el software.
 
-- Fundamentos y conceptos generales de bases de datos.
-- Diseño y modelado de bases de datos.
+Me enfoco en investigar, experimentar, documentar procesos y transformar conceptos técnicos en contenidos educativos, ejemplos y laboratorios prácticos.
+
+Mi filosofía de trabajo se fundamenta en el aprendizaje continuo, el pensamiento lógico, la resolución de problemas y la aplicación práctica del conocimiento.
+
+**Mi objetivo es construir, documentar y compartir conocimiento tecnológico.**
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/Eldiariodeunprogramador/Linux-esencial/blob/main/img/02-225x300.png?raw=true" width="190" alt="El diario de un programador" />
+
+<br/>
+
+**EL DIARIO DE UN PROGRAMADOR**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ ÁREAS DE CONOCIMIENTO
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 01. Desarrollo de software
+
+- Desarrollo web.
+- Fundamentos de programación.
+- Lógica y algoritmos.
+- JavaScript y TypeScript.
+- HTML5 y CSS3.
+- React.
+- Python y C#.
+- Diseño de interfaces.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ 02. Bases de datos
+
+- Diseño y modelado de datos.
 - Modelo Entidad-Relación (MER).
 - Normalización: 1FN, 2FN y 3FN.
-- Lenguaje SQL.
-- PostgreSQL.
+- SQL y PostgreSQL.
 - Lenguajes DDL, DML y DCL.
-- Claves primarias y foráneas.
-- Integridad referencial y restricciones.
-- Registro, consulta y consolidación de datos.
-- Administración y gestión de información.
+- Integridad referencial.
+- Administración de bases de datos.
+- Gestión y consolidación de información.
 
-### 🔧 Hardware y software
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 03. Hardware y electrónica
 
 - Arquitectura de computadores.
-- Componentes electrónicos y dispositivos móviles.
-- Diagnóstico y mantenimiento de equipos.
+- Electrónica básica.
+- Componentes electrónicos.
+- Diagnóstico de dispositivos.
+- Hardware de equipos móviles.
+- Mantenimiento y reparación.
+
+</td>
+<td width="50%" valign="top">
+
+### 💿 04. Sistemas y software
+
 - Sistemas operativos.
-- Instalación y configuración de software.
-- Herramientas técnicas para mantenimiento y reparación de dispositivos móviles.
-- Fundamentos de electrónica aplicada a la informática.
+- Linux y Windows.
+- Instalación y configuración.
+- Herramientas de diagnóstico.
+- Software técnico.
+- Mantenimiento de dispositivos móviles.
 
-### 🛠️ Herramientas de desarrollo
-
-- Git.
-- GitHub.
-- Visual Studio Code.
-- PostgreSQL.
-- Entornos de desarrollo y herramientas de programación.
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tecnologías y herramientas
+## 🛠️ STACK TECNOLÓGICO
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<div align="center">
+
+### Lenguajes de programación
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs" />
+
+### Frameworks y desarrollo
+
+<img src="https://skillicons.dev/icons?i=react,vscode" />
+
+### Bases de datos y control de versiones
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github" />
+
 </div>
 
 ---
 
-## 📚 El diario de un programador
+## 📚 PROYECTO EDITORIAL
 
-**El diario de un programador** es un proyecto educativo y tecnológico que busca documentar, organizar y compartir conocimientos mediante publicaciones, manuales, tutoriales, ejemplos y laboratorios prácticos.
+<div align="center">
 
-### Líneas de trabajo
+### EL DIARIO DE UN PROGRAMADOR
 
-- 📖 Programación desde cero.
-- 💻 Desarrollo de software.
-- 🗄️ Bases de datos desde cero.
-- 🐘 Administración de PostgreSQL.
-- 🌐 Desarrollo web.
-- 🔧 Hardware y arquitectura de computadores.
-- 📱 Software y mantenimiento de dispositivos móviles.
-- 📚 Elaboración de manuales y documentación técnica.
+<img src="https://revista-digital-html.netlify.app/img/logo.png" width="220" alt="Identidad visual de El diario de un programador" />
 
-### Proyecto editorial destacado
+**Conocimiento técnico explicado de forma práctica.**
+
+</div>
+
+El diario de un programador es un espacio de divulgación tecnológica orientado a documentar experiencias, desarrollar contenidos educativos y compartir conocimientos sobre informática y programación.
+
+**Principales líneas editoriales:**
+
+| Área | Contenido |
+|---|---|
+| Programación | Fundamentos, lógica y ejercicios |
+| Desarrollo | Aplicaciones y desarrollo web |
+| Bases de datos | Modelado, SQL y PostgreSQL |
+| Hardware | Arquitectura y componentes |
+| Software | Sistemas y herramientas técnicas |
+| Formación | Manuales y laboratorios prácticos |
+
+### 📖 Publicación destacada
 
 **El diario de un programador: Bases de datos desde cero**
 
-Un proyecto orientado a enseñar los fundamentos de las bases de datos mediante conceptos, ejemplos, ejercicios y laboratorios prácticos, desde el modelado hasta la normalización y la implementación con SQL.
+Proyecto educativo que aborda los fundamentos de las bases de datos mediante conceptos, ejemplos, ejercicios y laboratorios prácticos.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 ESTADÍSTICAS DE GITHUB
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Eldiariodeunprogramador&show_icons=true&theme=tokyonight&locale=es" height="180" alt="Estadísticas de GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eldiariodeunprogramador&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldiariodeunprogramador&layout=compact&theme=tokyonight&locale=es" height="180" alt="Lenguajes más utilizados" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldiariodeunprogramador&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eldiariodeunprogramador&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Redes sociales y contacto
+## 🐍 CONTRIBUCIONES
 
-<div align="left">
-  <a href="https://www.youtube.com/@el-diariodeunprogramador" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/lospinare/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:eldiariodeunprogramador@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/eldiariode-unprogramador-384201338/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Eldiariodeunprogramador/Eldiariodeunprogramador/snake-output/snake.svg" width="100%" alt="Animación de contribuciones de GitHub" />
+
 </div>
 
 ---
 
-## 🐍 Mi actividad en GitHub
+## 🌎 CONECTEMOS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eldiariodeunprogramador/Eldiariodeunprogramador/snake-output/snake.svg" alt="Animación de actividad de GitHub" />
-</div>
+
+¿Te interesa la programación, el desarrollo de software, las bases de datos o la tecnología?
+
+Conectemos, compartamos conocimientos y construyamos nuevos proyectos.
+
+[![YouTube](https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@el-diariodeunprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lospinare/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eldiariode-unprogramador-384201338/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail)](mailto:eldiariodeunprogramador@gmail.com)
 
 ---
 
-## 🎯 Filosofía de trabajo
+### 💡 MI FILOSOFÍA
 
-- Aprender constantemente.
-- Investigar y experimentar.
-- Documentar los conocimientos.
-- Desarrollar soluciones prácticas.
-- Compartir experiencias y conocimientos.
-- Convertir las ideas en proyectos reales.
+> "El conocimiento se construye investigando, aprendiendo, desarrollando y compartiendo."
 
-> El conocimiento no tiene límites cuando existe curiosidad, disciplina y pasión por aprender.
+**EL DIARIO DE UN PROGRAMADOR**
 
-<div align="center">
-  <img height="200" src="https://revista-digital-html.netlify.app/img/logo.png" alt="Identidad visual de El diario de un programador" />
-</div>
+*Aprender desde cero. Desarrollar con conocimiento. Innovar constantemente.*
 
----
-
-<div align="center">
-
-### 💡 EL DIARIO DE UN PROGRAMADOR
-
-**Aprender desde cero. Desarrollar con conocimiento. Innovar constantemente.**
-
-⭐ Gracias por visitar mi perfil de GitHub.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:09090b&height=100&section=footer" width="100%" />
 
 </div>
